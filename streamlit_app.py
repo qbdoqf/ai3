@@ -75,10 +75,14 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
 
-    labels[0]:{"texts":["총 맞은 것처럼 가슴이 너무 아파"]},
-    labels[1]:{"texts":["헛된 꿈을 꾼 자"]},
-    labels[2]:{"texts":["그저 돈이 많고 싶었던 사람"]},
-    labels[3]:{"texts":["펑(한강다리 터지는 소리)"]},
+    labels[0]:{"texts":["총 맞은 것처럼 가슴이 너무 아파"],
+               "vidios":[https://www.youtube.com/shorts/_xALyZVSIOo]},
+    labels[1]:{"texts":["헛된 꿈을 꾼 자"],
+              "vidios":[https://www.youtube.com/watch?v=asxPvaWN-qw]},
+    labels[2]:{"texts":["그저 돈이 많고 싶었던 사람"],
+              "vidios":[https://www.youtube.com/watch?v=BefZXjQbWMo]},
+    labels[3]:{"texts":["펑(한강다리 터지는 소리)"],
+               "vidios":[https://www.youtube.com/watch?v=mi_lQiQk5OA]},
 }
 
 
