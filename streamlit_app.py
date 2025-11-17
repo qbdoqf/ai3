@@ -76,13 +76,17 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },
 
     labels[0]:{"texts" :["총 맞은 것처럼 가슴이 너무 아파"],
-               "videos":["https://www.youtube.com/shorts/_xALyZVSIOo"]},
+               "videos":["https://www.youtube.com/shorts/_xALyZVSIOo"],
+               "images":["https://cphoto.asiae.co.kr/listimglink/1/2025022518035546085_1740474234.jpg"]},
     labels[1]:{"texts" :["주정뱅이"],
-               "videos":["https://www.youtube.com/watch?v=asxPvaWN-qw"]},
+               "videos":["https://www.youtube.com/watch?v=asxPvaWN-qw"],
+               "images":["https://cdn.dailybizon.com/news/photo/202504/45731_46663_5940.jpg"]},
     labels[2]:{"texts" :["강도"],
-               "videos":["https://www.youtube.com/watch?v=BefZXjQbWMo"]},
+               "videos":["https://www.youtube.com/watch?v=BefZXjQbWMo"],
+               "images":["https://cdn.ilyoeconomy.com/news/photo/201803/35984_32835_5829.jpg"]},
     labels[3]:{"texts" :["펑(한강다리 터지는 소리)"],
-               "videos":["https://www.youtube.com/watch?v=mi_lQiQk5OA"]},
+               "videos":["https://www.youtube.com/watch?v=mi_lQiQk5OA"],
+               "images":["https://file2.nocutnews.co.kr/newsroom/image/2014/06/23/20140623103937306791.jpg"]},
 }
 
 
